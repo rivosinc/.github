@@ -1,0 +1,4 @@
+{
+  "name": "pre-commit tool",
+  "description": "runs pre-commit tool in GH action based on cfg in .pre-commit-config.yaml"
+}
