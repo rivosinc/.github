@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+SPDX-FileCopyrightText: 2024 Rivos Inc.
+
+SPDX-License-Identifier: Apache-2.0
+-->
+
+<!-- GENERATED FILE DO NOT EDIT -->
+<!-- https://gerrit.googlesource.com/git-repo/+/master/docs/manifest-format.md -->
+<manifest>
+    <remote name="origin" fetch="ssh://git@github.com"/>
+    <default revision="refs/heads/main" remote="origin" sync-j="4"/>
+    <project name='rivosinc/.github' revision='main' groups='org:rivosinc,proj:.github' />
+    <project name='rivosinc/JumpStart' revision='main' groups='org:rivosinc,proj:JumpStart' />
+    <project name='rivosinc/Zisslpcfi-sw' revision='main' groups='org:rivosinc,proj:Zisslpcfi-sw' />
+    <project name='rivosinc/cove' revision='main' groups='org:rivosinc,proj:cove' />
+    <project name='rivosinc/crosspkgs' revision='main' groups='org:rivosinc,proj:crosspkgs' />
+    <project name='rivosinc/hammer' revision='main' groups='org:rivosinc,proj:hammer' />
+    <project name='rivosinc/nix-ci' revision='main' groups='org:rivosinc,proj:nix-ci' />
+    <project name='rivosinc/opensipi' revision='main' groups='org:rivosinc,proj:opensipi' />
+    <project name='rivosinc/oss-proj-template' revision='main' groups='org:rivosinc,proj:oss-proj-template' />
+    <project name='rivosinc/pcie-power-logger' revision='main' groups='org:rivosinc,proj:pcie-power-logger' />
+    <project name='rivosinc/prometheus-slurm-exporter' revision='main' groups='org:rivosinc,proj:prometheus-slurm-exporter' />
+    <project name='rivosinc/rice' revision='main' groups='org:rivosinc,proj:rice' />
+    <project name='rivosinc/riscv-code-samples' revision='main' groups='org:rivosinc,proj:riscv-code-samples' />
+    <project name='rivosinc/rivos-run-salus-qemu' revision='main' groups='org:rivosinc,proj:rivos-run-salus-qemu' />
+    <project name='rivosinc/rivosinc.github.io' revision='main' groups='org:rivosinc,proj:rivosinc.github.io' />
+    <project name='rivosinc/rules_rivos' revision='main' groups='org:rivosinc,proj:rules_rivos' />
+    <project name='rivosinc/rvi-doc-metrics' revision='main' groups='org:rivosinc,proj:rvi-doc-metrics' />
+    <project name='rivosinc/salus' revision='main' groups='org:rivosinc,proj:salus' />
+    <project name='rivosinc/sbi-rs' revision='main' groups='org:rivosinc,proj:sbi-rs' />
+    <project name='rivosinc/veclibm' revision='main' groups='org:rivosinc,proj:veclibm' />
+</manifest>
